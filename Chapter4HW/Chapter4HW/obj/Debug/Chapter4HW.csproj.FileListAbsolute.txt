@@ -1,0 +1,6 @@
+C:\Users\Leslie\source\repos\Chapter4HW\Chapter4HW\obj\Debug\Chapter4HW.csprojAssemblyReference.cache
+C:\Users\Leslie\source\repos\Chapter4HW\Chapter4HW\bin\Debug\Chapter4HW.exe.config
+C:\Users\Leslie\source\repos\Chapter4HW\Chapter4HW\bin\Debug\Chapter4HW.exe
+C:\Users\Leslie\source\repos\Chapter4HW\Chapter4HW\bin\Debug\Chapter4HW.pdb
+C:\Users\Leslie\source\repos\Chapter4HW\Chapter4HW\obj\Debug\Chapter4HW.exe
+C:\Users\Leslie\source\repos\Chapter4HW\Chapter4HW\obj\Debug\Chapter4HW.pdb
